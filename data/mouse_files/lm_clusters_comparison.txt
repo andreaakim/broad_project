@@ -1,0 +1,324 @@
+MATCHING:
+Middle East respiratory syndrome
+abnormal aerobic respiration
+abnormal airway basal cell differentiation
+abnormal airway basal cell morphology
+abnormal airway resistance
+abnormal airway responsiveness
+abnormal alveolar macrophage physiology
+abnormal branching involved in alveolar duct morphogenesis
+abnormal branching involved in lung morphogenesis
+abnormal branching involved in terminal bronchiole morphogenesis
+abnormal branching involved in trachea morphogenesis
+abnormal breathing pattern
+abnormal bronchial cartilage morphology
+abnormal bronchial provocation
+abnormal bronchioalveolar stem cell morphology
+abnormal bronchiole epithelium morphology
+abnormal bronchiole morphology
+abnormal bronchoalveolar duct junction morphology
+abnormal bronchus epithelium morphology
+abnormal bronchus morphology
+abnormal cellular respiration
+abnormal forced expiratory flow rates
+abnormal inspiratory capacity
+abnormal left lung morphology
+abnormal left major bronchus morphology
+abnormal lung adenoma incidence
+abnormal lung alveolus development
+abnormal lung bud morphology
+abnormal lung compliance
+abnormal lung development
+abnormal lung endothelial cell migration
+abnormal lung endothelial cell physiology
+abnormal lung epithelium morphology
+abnormal lung hysteresivity
+abnormal lung interstitium morphology
+abnormal lung lobe morphology
+abnormal lung morphology
+abnormal lung position or orientation
+abnormal lung saccule morphology
+abnormal lung size
+abnormal lung thrombosis
+abnormal lung vasculature morphology
+abnormal lung volume
+abnormal lung weight
+abnormal lung-associated mesenchyme development
+abnormal mesenchymal cell differentiation involved in lung development
+abnormal mesenchymal cell proliferation involved in lung development
+abnormal pulmonary acinus morphology
+abnormal pulmonary alveolar duct morphology
+abnormal pulmonary alveolar parenchyma morphology
+abnormal pulmonary alveolar sac morphology
+abnormal pulmonary alveolar system morphology
+abnormal pulmonary alveolus epithelial cell morphology
+abnormal pulmonary alveolus epithelium morphology
+abnormal pulmonary alveolus morphology
+abnormal pulmonary alveolus wall morphology
+abnormal pulmonary circulation
+abnormal pulmonary collagen fibril morphology
+abnormal pulmonary elastic fiber morphology
+abnormal pulmonary endothelial cell surface
+abnormal pulmonary gas exchange
+abnormal pulmonary interalveolar septum morphology
+abnormal pulmonary neuroendocrine body morphology
+abnormal pulmonary pressure
+abnormal pulmonary respiratory rate
+abnormal pulmonary respiratory rate response
+abnormal pulmonary trunk morphology
+abnormal pulmonary valve cusp morphology
+abnormal pulmonary valve development
+abnormal pulmonary valve morphology
+abnormal pulmonary vascular resistance
+abnormal pulmonary vein morphology
+abnormal pulmonary ventilation
+abnormal respiration
+abnormal respiratory bronchiole morphology
+abnormal respiratory conducting tube morphology
+abnormal respiratory electron transport chain
+abnormal respiratory epithelial sodium ion transmembrane transport
+abnormal respiratory epithelial transmembrane transport
+abnormal respiratory epithelium morphology
+abnormal respiratory epithelium physiology
+abnormal respiratory function
+abnormal respiratory mechanics
+abnormal respiratory mucosa goblet cell morphology
+abnormal respiratory mucosa morphology
+abnormal respiratory quotient
+abnormal respiratory sounds
+abnormal respiratory system development
+abnormal respiratory system morphology
+abnormal respiratory system physiology
+abnormal respiratory tract brush cell morphology
+abnormal right lung accessory lobe morphology
+abnormal right lung caudal lobe morphology
+abnormal right lung cranial lobe morphology
+abnormal right lung middle lobe morphology
+abnormal right lung morphology
+abnormal right major bronchus morphology
+abnormal solitary pulmonary neuroendocrine cell morphology
+abnormal terminal bronchiole morphology
+abnormal total lung capacity
+abnormal trachea development
+abnormal trachea morphology
+abnormal tracheal cartilage morphology
+abnormal tracheal ciliated epithelium morphology
+absent lung buds
+absent lung saccules
+absent lungs
+absent pulmonary alveoli
+absent pulmonary artery
+absent pulmonary neuroendocrine bodies
+absent pulmonary vein
+absent respiratory mucosa goblet cells
+absent right lung accessory lobe
+absent solitary pulmonary neuroendocrine cells
+airway basal cell hyperplasia
+alveolar process atrophy
+anomalous pulmonary venous connection
+apnea
+asthma
+bronchial epithelial hyperplasia
+bronchial situs inversus
+bronchiectasis
+bronchiolar epithelial hyperplasia
+bronchiolectasis
+bronchiolitis
+bronchoconstriction
+calcified pulmonary alveolus
+chronic obstructive pulmonary disease
+congenital chylothorax
+decreased airway resistance
+decreased airway responsiveness
+decreased alveolar macrophage number
+decreased bronchoconstrictive response
+decreased lung compliance
+decreased lung elastance
+decreased lung endothelial cell adhesion
+decreased lung endothelial cell migration
+decreased lung endothelial cell proliferation
+decreased lung fibroblast proliferation
+decreased lung tissue damping
+decreased mesenchymal cell proliferation involved in lung development
+decreased number of pulmonary neuroendocrine bodies
+decreased pulmonary artery pressure
+decreased pulmonary endothelial cell surface
+decreased pulmonary respiratory rate
+decreased pulmonary vascular resistance
+decreased pulmonary ventilation
+decreased respiratory epithelial chloride transmembrane transport
+decreased respiratory epithelial sodium ion transmembrane transport
+decreased respiratory quotient
+decreased total lung capacity
+decreased trachea gland number
+desquamative interstitial pneumonia
+dilated pulmonary alveolar duct
+dilated pulmonary trunk
+dilated respiratory conducting tube
+dilated terminal bronchiole tube
+emphysema
+enlarged lung
+enlarged pulmonary valve
+fused right lung lobes
+hemothorax
+hyperpnea
+impaired branching involved in bronchus morphogenesis
+impaired branching involved in preterminal bronchiole morphogenesis
+impaired branching involved in respiratory bronchiole morphogenesis
+impaired branching involved in terminal bronchiole morphogenesis
+impaired branching involved in trachea morphogenesis
+impaired lung alveolus development
+impaired lung lobe morphogenesis
+increased airway resistance
+increased airway responsiveness
+increased alveolar macrophage number
+increased bronchioalveolar stem cell number
+increased bronchoconstrictive response
+increased lung compliance
+increased lung elastance
+increased lung endothelial cell adhesion
+increased lung endothelial cell migration
+increased lung endothelial cell proliferation
+increased lung tissue damping
+increased lung weight
+increased mesenchymal cell proliferation involved in lung development
+increased number of pulmonary neuroendocrine bodies
+increased pulmonary artery pressure
+increased pulmonary respiratory rate
+increased pulmonary vascular resistance
+increased pulmonary ventilation
+increased respiratory epithelial sodium ion transmembrane transport
+increased respiratory quotient
+increased susceptibility to pulmonary hyaline membrane formation
+increased total lung capacity
+increased wet-to-dry lung weight ratio
+interstitial pneumonia
+left pulmonary isomerism
+lower respiratory tract disease
+lung cancer
+lung cyst
+lung epithelium hyperplasia
+lung hemorrhage
+lung inflammation
+lung non-small cell carcinoma
+lung situs inversus
+lung small cell carcinoma
+lung squamous cell carcinoma
+newborn respiratory distress syndrome
+obstructive sleep apnea
+overexpanded pulmonary alveolus
+pale lung
+pneumothorax
+primary pulmonary hypertension
+pulmonary alveolar edema
+pulmonary alveolar hemorrhage
+pulmonary alveolar proteinosis
+pulmonary artery hypoplasia
+pulmonary artery stenosis
+pulmonary edema
+pulmonary embolism
+pulmonary emphysema
+pulmonary epithelial necrosis
+pulmonary fibrosis
+pulmonary hyaline membrane formation
+pulmonary hyperemia
+pulmonary hyperplasia
+pulmonary hypertension
+pulmonary interstitial fibrosis
+pulmonary necrosis
+pulmonary parenchymal consolidation
+pulmonary valve hyperplasia
+pulmonary vascular congestion
+respiratory acidosis
+respiratory distress
+respiratory epithelium hypertrophy
+respiratory failure
+respiratory system inflammation
+respiratory system phenotype
+right pulmonary isomerism
+severe acute respiratory syndrome
+small lung
+small lung lobe
+small lung saccule
+supravalvar pulmonary trunk stenosis
+tachypnea
+thick lung-associated mesenchyme
+thick pulmonary interalveolar septum
+thin lung-associated mesenchyme
+total anomalous pulmonary venous connection
+total anomalous pulmonary venous connection  intracardiac
+trachea fibrosis
+trachea inflammation
+trachea occlusion
+trachea stenosis
+tracheoesophageal fistula
+wheezing
+
+ONLY IN LEIDEN:
+abnormal Rathke s pouch development
+abnormal alveolar lamellar body morphology
+abnormal alveolar macrophage morphology
+abnormal alveolar pore morphology
+abnormal alveolar process morphology
+abnormal carbon dioxide production
+abnormal diaphragm development
+abnormal oxygen consumption
+abnormal pulmonary artery morphology
+abnormal pulmonary artery origin
+abnormal surfactant physiology
+abnormal trachea gland morphology
+abnormal vital capacity
+absent alveolar lamellar bodies
+absent alveolar pores
+absent alveolar process
+absent pulmonary trunk
+acute intermittent porphyria
+alveolar soft part sarcoma
+alveolitis
+aspiration
+barrel chest
+chylothorax
+coughing
+decreased alveolar lamellar body number
+decreased lung weight
+decreased respiration
+dilated pulmonary artery
+enlarged alveolar lamellar bodies
+impaired branching involved in alveolar sac morphogenesis
+increased alveolar lamellar body number
+increased respiration
+meconium aspiration syndrome
+oculocutaneous albinism
+persistent ultimobranchial bodies
+pulmonary arteriovenous malformation
+small alveolar lamellar bodies
+
+ONLY IN KMEANS:
+abnormal hair medulla air spaces
+abnormal pulmonary valve flow
+abnormal respiratory motile cilium morphology
+abnormal respiratory motile cilium physiology
+absent pulmonary valve cusps
+absent respiratory motile cilia
+decreased mammary duct terminal end bud number
+decreased respiratory motile cilia number
+decreased tracheal cartilage ring number
+diaphragmitis
+esophageal atresia tracheoesophageal fistula
+focal hair loss in thorax region
+fused bronchial cartilage rings
+fused tracheal cartilage rings
+immotile respiratory cilia
+increased lung glycogen level
+increased solitary pulmonary neuroendocrine cell number
+nasal inflammation
+patent pulmonary valve
+pulmonary hypoplasia
+pulmonary trunk hypoplasia
+pulmonary valve atresia
+pulmonary valve hypertrophy
+pulmonary valve regurgitation
+pulmonary valve stenosis
+pulmonary vein hypoplasia
+thick pulmonary valve
+thick pulmonary valve cusps

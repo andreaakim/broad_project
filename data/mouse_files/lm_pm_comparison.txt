@@ -1,0 +1,412 @@
+MATCHING:
+IgA glomerulonephritis
+abnormal bladder urine volume
+abnormal distal convoluted tubule morphology
+abnormal glomerular capillary endothelium morphology
+abnormal glomerular capillary morphology
+abnormal glomerular capillary thrombosis
+abnormal glomerular capsule parietal layer morphology
+abnormal glomerular capsule space morphology
+abnormal glomerular endothelium fenestra morphology
+abnormal glomerular filtration barrier function
+abnormal glomerular filtration barrier morphology
+abnormal glomerular mesangium morphology
+abnormal juxtaglomerular apparatus morphology
+abnormal juxtaglomerular cell morphology
+abnormal kidney afferent arteriole morphology
+abnormal kidney arcuate artery morphology
+abnormal kidney calyx morphology
+abnormal kidney capillary morphology
+abnormal kidney capsule morphology
+abnormal kidney cell proliferation
+abnormal kidney collecting duct epithelium morphology
+abnormal kidney collecting duct intercalated cell morphology
+abnormal kidney collecting duct morphology
+abnormal kidney collecting duct principal cell morphology
+abnormal kidney cortex artery morphology
+abnormal kidney cortex morphology
+abnormal kidney corticomedullary boundary morphology
+abnormal kidney development
+abnormal kidney efferent arteriole morphology
+abnormal kidney epithelium morphology
+abnormal kidney inner medulla morphology
+abnormal kidney interlobular artery morphology
+abnormal kidney interstitium morphology
+abnormal kidney lobule morphology
+abnormal kidney medulla development
+abnormal kidney medulla morphology
+abnormal kidney medullary ray morphology
+abnormal kidney mesenchyme morphology
+abnormal kidney morphology
+abnormal kidney outer medulla inner stripe morphology
+abnormal kidney outer medulla morphology
+abnormal kidney outer medulla outer stripe morphology
+abnormal kidney papilla morphology
+abnormal kidney pelvis morphology
+abnormal kidney pelvis smooth muscle morphology
+abnormal kidney pelvis urothelium morphology
+abnormal kidney physiology
+abnormal kidney pyramid morphology
+abnormal kidney size
+abnormal kidney thrombosis
+abnormal kidney vasculature morphology
+abnormal left renal vein morphology
+abnormal metanephric ureteric bud development
+abnormal nephron morphogenesis
+abnormal nephron morphology
+abnormal proximal convoluted tubule brush border morphology
+abnormal proximal convoluted tubule morphology
+abnormal renal calcium reabsorption
+abnormal renal corpuscle morphology
+abnormal renal filtration
+abnormal renal glomerular capsule morphology
+abnormal renal glomerular filtration
+abnormal renal glomerular filtration rate
+abnormal renal glomerulus basement membrane morphology
+abnormal renal glomerulus basement membrane thickness
+abnormal renal glomerulus morphology
+abnormal renal glucose reabsorption
+abnormal renal phosphate reabsorption
+abnormal renal protein reabsorption
+abnormal renal reabsorption
+abnormal renal sodium ion transport
+abnormal renal sodium reabsorption
+abnormal renal transport
+abnormal renal tubule epithelial cell primary cilium morphology
+abnormal renal tubule epithelium morphology
+abnormal renal tubule morphology
+abnormal renal urinary system morphology
+abnormal renal urinary system physiology
+abnormal renal vein morphology
+abnormal renal water reabsorption
+abnormal renal water transport
+abnormal tubuloglomerular feedback response
+abnormal ureter development
+abnormal ureter morphology
+abnormal ureter physiology
+abnormal ureter smooth muscle morphology
+abnormal ureter topology
+abnormal ureter urothelium morphology
+abnormal ureteral orifice morphology
+abnormal ureteric bud elongation
+abnormal ureteric bud invasion
+abnormal ureteric bud morphology
+abnormal ureteric bud tip morphology
+abnormal ureteric bud trunk morphology
+abnormal ureteropelvic junction morphology
+abnormal ureterovesical junction morphology
+abnormal urethra urothelium morphology
+abnormal urinary bladder detrusor smooth muscle morphology
+abnormal urinary bladder morphology
+abnormal urinary bladder mucosa morphology
+abnormal urinary bladder neck morphology
+abnormal urinary bladder physiology
+abnormal urinary bladder urothelium morphology
+abnormal urinary bladder vasculature morphology
+abnormal urinary system development
+abnormal urination
+abnormal urination pattern
+abnormal urothelium morphology
+absent glomerular endothelium fenestra
+absent kidney
+absent kidney cortex
+absent kidney medulla
+absent kidney papilla
+absent kidney pelvis
+absent nephrogenic zone
+absent proximal convoluted tubule brush border
+absent renal glomerulus
+absent tubuloglomerular feedback response
+absent ureter
+absent ureteric bud
+absent urinary bladder
+absent urinary bladder urothelium
+accumulation of giant lysosomes in kidney renal tubule cells
+autoimmune glomerulonephritis
+autoimmune interstitial lung  joint  and kidney disease
+bifid ureter
+bilateral renal aplasia
+bladder exstrophy
+blind ureter
+cortical renal glomerulopathies
+cystic kidney disease
+cystinosis
+decreased glomerular capillary number
+decreased glomerular capsule space
+decreased kidney collecting duct number
+decreased renal glomerular filtration rate
+decreased renal glomerulus basement membrane thickness
+decreased renal glomerulus number
+decreased renal tubule apoptosis
+decreased renal tubule number
+decreased tubuloglomerular feedback response
+dilated distal convoluted tubule
+dilated glomerular capillary
+dilated kidney calyx
+dilated kidney collecting duct
+dilated proximal convoluted tubule
+dilated renal glomerular capsule
+dilated renal tubule
+dilated ureter
+distended urinary bladder
+double kidney pelvis
+double ureter
+duplex kidney
+ectopic kidney
+ectopic ureter
+ectopic ureteric bud
+elongated kidney papilla
+end stage renal disease
+enlarged kidney
+enlarged urinary bladder
+familial juvenile hyperuricemic nephropathy
+focal segmental glomerulosclerosis
+focal segmental glomerulosclerosis 1
+focal segmental glomerulosclerosis 3
+fused kidneys
+glomerular capillary congestion
+glomerular crescent
+glomerulonephritis
+glomerulosclerosis
+glomerulus hemorrhage
+granular kidney
+hydronephrosis
+hydroureter
+impaired contractility of urinary bladder detrusor smooth muscle
+impaired ureteric peristalsis
+increased compensatory renal growth
+increased glomerular capsule space
+increased renal glomerular filtration rate
+increased renal glomerulus apoptosis
+increased renal glomerulus basement membrane thickness
+increased renal glomerulus lobularity
+increased renal tubule apoptosis
+increased tubuloglomerular feedback response
+increased urinary bladder weight
+juxtaglomerular cell hyperplasia
+karyomegalic interstitial nephritis
+kidney atrophy
+kidney collecting duct atrophy
+kidney cortex atrophy
+kidney cortex cyst
+kidney corticomedullary cyst
+kidney cyst
+kidney degeneration
+kidney disease
+kidney epithelium hyperplasia
+kidney failure
+kidney medulla atrophy
+kidney medulla cyst
+kidney microaneurysm
+kidney papillary atrophy
+kidney vascular congestion
+large ureter
+membranoproliferative glomerulonephritis
+membranous glomerulonephritis
+mesangiolysis
+nephroblastoma
+nephrocalcinosis
+nephrogenic diabetes insipidus
+nephrolithiasis
+nephron necrosis
+nephrosclerosis
+nephrosis
+nephrotic syndrome
+neurogenic bladder
+nonpapillary renal cell carcinoma
+obstructive nephropathy
+orotic acid urinary bladder stones
+pale kidney
+pelvic kidney
+polycystic kidney
+polycystic kidney disease
+polycystic kidney disease 1
+polycystic kidney disease 2
+polycystic kidney disease 4
+proximal convoluted tubule brush border loss
+pyelonephritis
+renal cast
+renal cell carcinoma
+renal coloboma syndrome
+renal fibrosis
+renal glomerular immunoglobulin deposits
+renal glomerular protein deposits
+renal glomerular synechia
+renal glomerulus atrophy
+renal glomerulus cyst
+renal glomerulus fibrosis
+renal glomerulus hypertrophy
+renal glomerulus lipidosis
+renal glycosuria
+renal hypomagnesemia 3
+renal interstitial fibrosis
+renal ischemia
+renal necrosis
+renal tubular necrosis
+renal tubule atrophy
+renal tubule hypertrophy
+renal urinary system phenotype
+short kidney papilla
+short ureter
+sialuria
+single kidney
+small kidney
+small ureteric bud
+thin urinary bladder urothelium
+tubular nephritis
+tubulointerstitial nephritis
+ureter hypoplasia
+ureter obstruction
+ureter stenosis
+ureter urothelium hyperplasia
+ureteral reflux
+ureterocele
+ureteropelvic junction atresia
+ureteropelvic junction obstruction
+ureteropelvic junction stenosis
+ureterovesical junction obstruction
+urethra obstruction
+urinary bladder cancer
+urinary bladder cyst
+urinary bladder exstrophy
+urinary bladder fibrosis
+urinary bladder hypoplasia
+urinary bladder inflammation
+urinary bladder obstruction
+urinary incontinence
+urinary system disease
+urinary tract obstruction
+urolithiasis
+
+ONLY IN LM:
+abnormal branching involved in ureteric bud morphogenesis
+abnormal female urethra morphology
+abnormal kidney venous blood vessel morphology
+abnormal kidney venous thrombosis
+abnormal kidney weight
+abnormal male prostatic urethra morphology
+abnormal microtubule organizing center morphology
+abnormal renal artery morphology
+abnormal renal fat pad morphology
+abnormal renal filtration rate
+abnormal renal plasma flow rate
+abnormal renal vascular resistance
+abnormal renal water homeostasis
+abnormal right renal artery morphology
+abnormal seminiferous tubule epithelium morphology
+abnormal seminiferous tubule morphology
+abnormal seminiferous tubule size
+abnormal urethra morphology
+abnormal urine osmolality
+abnormal urogenital fold morphology
+absent deltoid tuberosity
+absent tubotympanic recess
+autosomal dominant polycystic kidney disease
+autosomal recessive polycystic kidney disease
+congenital anomalies of kidney and urinary tract syndrome with or without hearing loss  abnormal ears  or developmental delay
+decreased kidney cell proliferation
+decreased kidney weight
+decreased renal plasma flow rate
+decreased renal vascular resistance
+decreased susceptibility to kidney reperfusion injury
+delayed kidney development
+dilated seminiferous tubule
+enlarged seminiferous tubules
+enlarged utricle
+fecal incontinence
+impaired branching involved in ureteric bud morphogenesis
+increased kidney cell proliferation
+increased kidney weight
+increased pilomatricoma incidence
+increased renal cystadenoma incidence
+increased renal hamartoma incidence
+increased renal plasma flow rate
+increased renal vascular resistance
+increased susceptibility to kidney reperfusion injury
+increased urinary bladder transitional cell carcinoma incidence
+kidney hemorrhage
+kidney inflammation
+portal hypertension
+renal tubular acidosis
+seminiferous tubule degeneration
+small seminiferous tubules
+titubation
+uraturia
+urethra atresia
+urethritis
+
+ONLY IN PUBMED:
+abnormal Bowman membrane morphology
+abnormal Kimura membrane morphology
+abnormal basement membrane morphology
+abnormal cerebellar glomerulus morphology
+abnormal extraglomerular mesangial cell morphology
+abnormal loop of Henle ascending limb thick segment morphology
+abnormal loop of Henle descending limb morphology
+abnormal loop of Henle morphology
+abnormal mesangial cell morphology
+abnormal mesangial matrix morphology
+abnormal metanephros morphology
+abnormal nephrogenic zone morphology
+abnormal nephron number
+abnormal podocyte adhesion
+abnormal podocyte foot process morphology
+abnormal podocyte morphology
+abnormal podocyte motility
+abnormal podocyte physiology
+abnormal podocyte polarity
+abnormal podocyte slit diaphragm morphology
+abnormal podocyte slit junction morphology
+abnormal primitive urogenital sinus morphology
+absent mesangial cell
+absent metanephros
+absent nephron
+absent podocyte foot process
+absent podocyte slit diaphragm
+absent podocytes
+albuminuria
+anuria
+calcinosis
+cystathioninuria
+cystinuria
+cystitis
+cystolithiasis
+decreased podocyte motility
+detached podocyte
+dilated crypt of Lieberkuhn
+dilated nephron
+epithelioid cyst
+expanded mesangial matrix
+fused podocyte foot processes
+gangrene
+glutathionuria
+hematuria
+hemosiderinuria
+impaired basement membrane formation
+ischuria
+kidney cortex hypoplasia
+kidney medulla hypoplasia
+kidney papillary hypoplasia
+mesangial cell interposition
+microvillus inclusion disease
+monoclonal gammopathy of uncertain significance
+nephronophthisis
+nephronophthisis 1
+nephronophthisis 2
+nephronophthisis 3
+nephronophthisis 4
+nephronophthisis 7
+oliguria
+phthisis bulbi
+podocyte foot process effacement
+podocyte hypertrophy
+podocyte microvillus transformation
+podocyte vacuoles
+polyuria
+pyelitis
+pyuria
+renal hypoplasia
+small metanephros
+truncated loop of Henle
+uremia
+vesicoureteral reflux

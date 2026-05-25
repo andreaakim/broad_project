@@ -1,0 +1,771 @@
+MATCHING:
+adenoma
+enlarged prostate gland
+enlarged prostate gland anterior lobe
+enlarged prostate gland dorsolateral lobe
+enlarged prostate gland ventral lobe
+familial medullary thyroid carcinoma
+increased Harderian gland adenoma incidence
+increased mammary gland number
+increased sebaceous gland adenoma incidence
+mammary gland alveolar hyperplasia
+mammary gland duct hyperplasia
+mammary gland hyperplasia
+prostate adenocarcinoma
+prostate gland anterior lobe hyperplasia
+prostate gland cyst
+prostate gland dorsolateral lobe hyperplasia
+prostate gland epithelial hyperplasia
+prostate gland hyperplasia
+prostate gland inflammation
+prostate gland ventral lobe hyperplasia
+prostate neuroendocrine neoplasm
+salivary gland cancer
+salivary gland carcinoma
+squamous metaplasia of preputial gland
+squamous metaplasia of prostate gland
+thyroid cancer
+thyroid gland carcinoma
+thyroid gland cyst
+thyroid gland follicular carcinoma
+thyroid gland papillary carcinoma
+
+ONLY IN LM:
+Burkitt lymphoma
+abnormal incidence of induced tumors
+abnormal tumor incidence
+abnormal tumor latency
+abnormal tumor pathology
+abnormal tumor susceptibility
+alveolar rhabdomyosarcoma
+atypical teratoid rhabdoid tumor
+basal cell carcinoma
+breast cancer
+breast metaplastic carcinoma
+clear cell sarcoma
+colorectal cancer
+decreased alimentary system tumor incidence
+decreased cardiovascular system tumor incidence
+decreased classified tumor incidence
+decreased colon tumor incidence
+decreased dermal fibroblast proliferation
+decreased fibroblast proliferation
+decreased gland tumor incidence
+decreased hepatoma incidence
+decreased incidence of induced tumors
+decreased incidence of tumors by UV induction
+decreased incidence of tumors by chemical induction
+decreased incidence of tumors by ionizing radiation induction
+decreased intestinal adenoma incidence
+decreased leukemia incidence
+decreased liver tumor incidence
+decreased lung tumor incidence
+decreased lymphoma incidence
+decreased mammary gland epithelial cell proliferation
+decreased mammary gland tumor incidence
+decreased mammary gland tumor incidence in breeding females
+decreased melanoblast proliferation
+decreased organ body region tumor incidence
+decreased osteosarcoma incidence
+decreased ovarian tumor incidence
+decreased papilloma incidence
+decreased prostate gland tumor incidence
+decreased sarcoma incidence
+decreased skin tumor incidence
+decreased stomach tumor incidence
+decreased tumor growth size
+decreased tumor incidence
+decreased tumor latency
+decreased tumor-free survival time
+embryonal rhabdomyosarcoma
+epidermal cyst
+gastrointestinal stromal tumor
+glioblastoma
+glioblastoma proneural subtype
+head and neck squamous cell carcinoma
+hepatocellular adenoma
+hepatocellular carcinoma
+hereditary breast ovarian cancer syndrome
+high grade glioma
+histiocytic and dendritic cell cancer
+hyperphosphatemic familial tumoral calcinosis
+increased B cell derived lymphoma incidence
+increased Harderian gland adenocarcinoma incidence
+increased Harderian gland tumor incidence
+increased Leydig cell tumor incidence
+increased Schwannoma incidence
+increased T cell derived lymphoma incidence
+increased acute lymphoblastic leukemia incidence
+increased acute myeloid leukemia incidence
+increased acute promyelocytic leukemia incidence
+increased adenocarcinoma incidence
+increased adenoma incidence
+increased adrenal cortical tumor incidence
+increased adrenal gland adenoma incidence
+increased adrenal gland tumor incidence
+increased adrenocortical adenoma incidence
+increased alimentary system tumor incidence
+increased anal adenocarcinoma incidence
+increased astrocytoma incidence
+increased basal cell carcinoma incidence
+increased blastoma incidence
+increased brain tumor incidence
+increased carcinoma incidence
+increased cardiovascular system tumor incidence
+increased cholangiocarcinoma incidence
+increased chronic lymphocytic leukemia incidence
+increased chronic myelocytic leukemia incidence
+increased classified tumor incidence
+increased colon adenocarcinoma incidence
+increased colon adenoma incidence
+increased colon hamartoma incidence
+increased colon tumor incidence
+increased cutaneous melanoma incidence
+increased cystadenoma incidence
+increased desmoid tumor incidence
+increased duodenum adenocarcinoma incidence
+increased duodenum glandular epithelium tumor incidence
+increased enchondroma incidence
+increased endometrial carcinoma incidence
+increased epididymal cystadenoma incidence
+increased esophageal papilloma incidence
+increased extremity angiosarcoma incidence
+increased eye tumor incidence
+increased facial tumor incidence
+increased fibroadenoma incidence
+increased fibroblast proliferation
+increased fibrohistocytoma incidence
+increased fibroma incidence
+increased fibrosarcoma incidence
+increased follicular lymphoma incidence
+increased ganglioneuroma incidence
+increased gangliosarcoma incidence
+increased gastric adenocarcinoma incidence
+increased gastrointestinal stromal tumor incidence
+increased gastrointestinal tumor incidence
+increased gland tumor incidence
+increased glioblastoma incidence
+increased glioma incidence
+increased glucagonoma incidence
+increased gonad tumor incidence
+increased granulosa cell tumor incidence
+increased hamartoma incidence
+increased hemangioma incidence
+increased hemangiosarcoma incidence
+increased hemolymphoid system tumor incidence
+increased hepatic hemangioma incidence
+increased hepatobiliary system tumor incidence
+increased hepatoblastoma incidence
+increased hepatocellular carcinoma incidence
+increased hepatoma incidence
+increased hibernoma incidence
+increased histiocytic sarcoma incidence
+increased incidence of induced tumors
+increased incidence of tumors by UV-induction
+increased incidence of tumors by chemical induction
+increased incidence of tumors by ionizing radiation induction
+increased insulinoma incidence
+increased integument system tumor incidence
+increased intestinal adenocarcinoma incidence
+increased intestinal adenoma incidence
+increased intraocular melanoma incidence
+increased jejunum adenocarcinoma incidence
+increased keratinocyte proliferation
+increased keratoacanthoma incidence
+increased kidney tumor incidence
+increased large intestine adenocarcinoma incidence
+increased leiomyosarcoma incidence
+increased leukemia incidence
+increased lip tumor incidence
+increased lipoma incidence
+increased liposarcoma incidence
+increased liver adenocarcinoma incidence
+increased liver adenoma incidence
+increased liver tumor incidence
+increased lung adenocarcinoma incidence
+increased lung adenoma incidence
+increased lung carcinoma incidence
+increased lung large cell carcinoma incidence
+increased lung non-small cell carcinoma incidence
+increased lung small cell carcinoma incidence
+increased lung squamous cell carcinoma incidence
+increased lung tumor incidence
+increased lymphoblastic lymphoma incidence
+increased lymphoma incidence
+increased malignant triton tumor incidence
+increased malignant tumor incidence
+increased mammary adenoacanthoma incidence
+increased mammary adenocarcinoma incidence
+increased mammary gland ductal carcinoma incidence
+increased mammary gland epithelial cell proliferation
+increased mammary gland tumor incidence
+increased mammary gland tumor incidence in breeding females
+increased mammary gland tumor incidence in virgin females
+increased medulloblastoma incidence
+increased melanoma incidence
+increased meningioma incidence
+increased mesothelioma incidence
+increased mouth tumor incidence
+increased myeloid sarcoma incidence
+increased myoepithelioma incidence
+increased nervous system tumor incidence
+increased neuroblastoma incidence
+increased neurofibroma incidence
+increased neurofibrosarcoma incidence
+increased odontoma incidence
+increased odontosarcoma incidence
+increased oligodendroglioma incidence
+increased oral papilloma incidence
+increased organ body region tumor incidence
+increased osteosarcoma incidence
+increased ovarian carcinoma incidence
+increased ovarian teratoma incidence
+increased ovary adenoma incidence
+increased ovary tumor incidence
+increased papilloma incidence
+increased parathyroid adenoma incidence
+increased parathyroid gland tumor incidence
+increased pheochromocytoma incidence
+increased pilomatricoma incidence
+increased pituitary adenohypophysis tumor incidence
+increased pituitary adenoma incidence
+increased pituitary gland tumor incidence
+increased pituitary melanotroph tumor incidence
+increased plasmacytoma incidence
+increased prolactinoma incidence
+increased prostate gland adenocarcinoma incidence
+increased prostate gland tumor incidence
+increased prostate intraepithelial neoplasia incidence
+increased rectum adenocarcinoma incidence
+increased renal carcinoma incidence
+increased reproductive system tumor incidence
+increased retinoblastoma incidence
+increased rhabdomyoma incidence
+increased rhabdomyosarcoma incidence
+increased salivary adenocarcinoma incidence
+increased salivary gland adenoma incidence
+increased salivary gland tumor incidence
+increased sarcoma incidence
+increased sebaceous gland tumor incidence
+increased skeletal tumor incidence
+increased skin hamartoma incidence
+increased skin papilloma incidence
+increased skin squamous cell carcinoma incidence
+increased skin tumor incidence
+increased small intestine adenocarcinoma incidence
+increased small lymphocytic lymphoma incidence
+increased spindle cell carcinoma incidence
+increased spleen neoplasm incidence
+increased splenic marginal zone lymphoma incidence
+increased squamous cell carcinoma incidence
+increased stomach tumor incidence
+increased teratocarcinoma incidence
+increased teratoma incidence
+increased testicular teratoma incidence
+increased testis tumor incidence
+increased thymoma incidence
+increased thymus tumor incidence
+increased thyroid C-cell carcinoma incidence
+increased thyroid adenoma incidence
+increased thyroid carcinoma incidence
+increased thyroid tumor incidence
+increased tongue papilloma incidence
+increased trichoepithelioma incidence
+increased trigeminal neuroma incidence
+increased tumor growth size
+increased tumor incidence
+increased tumor incidence following infection
+increased tumor latency
+increased tumor-free survival time
+increased urethra carcinoma incidence
+increased urinary bladder carcinoma incidence
+increased urinary bladder transitional cell carcinoma incidence
+increased urinary system tumor incidence
+increased uterus carcinoma incidence
+increased uterus leiomyoma incidence
+increased uterus tumor incidence
+invasive lobular carcinoma
+lymphoma
+malignant astrocytoma
+malignant fibrous histiocytoma
+malignant histiocytic disease
+malignant mesothelioma
+malignant peripheral nerve sheath tumor
+multiple endocrine neoplasia type 1
+multiple endocrine neoplasia type 2B
+myeloid metaplasia
+myxoid liposarcoma
+nevoid basal cell carcinoma syndrome
+non-Hodgkin lymphoma
+normophosphatemic familial tumoral calcinosis
+oral cavity cancer
+ovarian cancer
+palmoplantar keratoderma-esophageal carcinoma syndrome
+paraganglioma
+pleuropulmonary blastoma
+prostate cancer
+rhabdomyosarcoma
+sarcoma
+squamous cell carcinoma
+synovial sarcoma
+tumor regression
+
+ONLY IN PUBMED:
+Harderian gland atrophy
+Harderian gland hyperplasia
+Harderian gland hypertrophy
+L5 dorsal root ganglion hypertrophy
+Meibomian gland atrophy
+Meibomian gland cyst
+Meibomian gland degeneration
+Meibomian gland hyperplasia
+Meibomian gland hypertrophy
+Meibomian gland hypoplasia
+Meibomian gland inflammation
+abnormal Brunner s gland morphology
+abnormal Ebner s gland morphology
+abnormal Harderian gland development
+abnormal Harderian gland morphology
+abnormal Harderian gland porphyrin secretion
+abnormal Meibomian gland acinus morphology
+abnormal Meibomian gland development
+abnormal Meibomian gland morphology
+abnormal Meibomian gland physiology
+abnormal adrenal gland capsule morphology
+abnormal adrenal gland development
+abnormal adrenal gland morphology
+abnormal adrenal gland physiology
+abnormal adrenal gland secretion
+abnormal adrenal gland x-zone morphology
+abnormal adrenal gland zona fasciculata morphology
+abnormal adrenal gland zona glomerulosa morphology
+abnormal adrenal gland zona reticularis morphology
+abnormal ampullary gland morphology
+abnormal axillary lymph node morphology
+abnormal branching of the mammary ductal tree
+abnormal bulbourethral gland development
+abnormal bulbourethral gland physiology
+abnormal eccrine sweat gland morphology
+abnormal endometrial gland development
+abnormal exocrine gland morphology
+abnormal exorbital lacrimal gland morphology
+abnormal gallbladder size
+abnormal gland physiology
+abnormal inguinal lymph node morphology
+abnormal inguinal mammary gland morphology
+abnormal involution of the mammary gland
+abnormal jugular lymph sac morphology
+abnormal lacrimal gland branching morphogenesis
+abnormal lacrimal gland development
+abnormal lacrimal gland innervation pattern
+abnormal lacrimal gland morphology
+abnormal lacrimal gland physiology
+abnormal lateral nasal gland morphology
+abnormal lymph node germinal center morphology
+abnormal lymph node medulla morphology
+abnormal lymph node medullary cord morphology
+abnormal lymph node primary follicle morphology
+abnormal lymph node secondary follicle morphology
+abnormal lymph node size
+abnormal lymph organ size
+abnormal major salivary gland morphology
+abnormal male accessory sex gland morphology
+abnormal male preputial gland morphology
+abnormal mammary duct terminal end bud morphology
+abnormal mammary fat pad morphology
+abnormal mammary gland alveolus morphology
+abnormal mammary gland bud elongation
+abnormal mammary gland bud morphology
+abnormal mammary gland connective tissue morphology
+abnormal mammary gland development
+abnormal mammary gland duct morphology
+abnormal mammary gland epithelium morphology
+abnormal mammary gland epithelium physiology
+abnormal mammary gland growth during lactation
+abnormal mammary gland growth during pregnancy
+abnormal mammary gland lobule morphology
+abnormal mammary gland luminal epithelium morphology
+abnormal mammary gland morphology
+abnormal mammary gland myoepithelium morphology
+abnormal mammary gland myoepithelium physiology
+abnormal mammary gland pattern
+abnormal mammary gland physiology
+abnormal mammary gland stroma morphology
+abnormal minor salivary gland morphology
+abnormal mucous gland physiology
+abnormal nasal gland morphology
+abnormal neuroendocrine gland morphology
+abnormal neuroendocrine gland physiology
+abnormal olfactory gland morphology
+abnormal pancreas size
+abnormal pancreatic acinar cell zymogen granule morphology
+abnormal pancreatic alpha cell mass
+abnormal pancreatic islet size
+abnormal parathyroid gland chief cell morphology
+abnormal parathyroid gland development
+abnormal parathyroid gland morphology
+abnormal parotid gland acinus morphology
+abnormal parotid gland morphology
+abnormal parotid gland physiology
+abnormal pineal gland melatonin secretion
+abnormal pineal gland physiology
+abnormal pituitary gland development
+abnormal pituitary gland morphology
+abnormal pituitary gland physiology
+abnormal pituitary infundibular stalk morphology
+abnormal pituitary intermediate lobe morphology
+abnormal pituitary secretion
+abnormal preputial gland morphology
+abnormal prostate gland anterior lobe morphology
+abnormal prostate gland branching morphogenesis
+abnormal prostate gland development
+abnormal prostate gland dorsolateral lobe morphology
+abnormal prostate gland duct morphology
+abnormal prostate gland epithelium morphology
+abnormal prostate gland morphology
+abnormal prostate gland physiology
+abnormal prostate gland ventral lobe morphology
+abnormal salivary gland duct morphology
+abnormal salivary gland physiology
+abnormal sebaceous gland morphology
+abnormal sebaceous gland physiology
+abnormal serous gland morphology
+abnormal sex gland morphology
+abnormal sex gland physiology
+abnormal sex gland secretion
+abnormal sublingual gland morphology
+abnormal submandibular gland branching morphogenesis
+abnormal submandibular gland development
+abnormal submandibular gland morphology
+abnormal submandibular gland physiology
+abnormal sweat gland morphology
+abnormal sweat gland physiology
+abnormal thoracic mammary gland morphology
+abnormal thymus involution
+abnormal thyroid gland development
+abnormal thyroid gland isthmus morphology
+abnormal thyroid gland morphology
+abnormal thyroid gland physiology
+absent Brunner s glands
+absent Harderian gland
+absent Meibomian glands
+absent Wolffian ducts
+absent adenohypophysis
+absent adrenal chromaffin cells
+absent adrenal gland
+absent adrenal medulla
+absent adrenergic chromaffin cells
+absent alveolar lamellar bodies
+absent anterior lingual gland
+absent axillary lymph nodes
+absent brachial lymph nodes
+absent bulbourethral gland
+absent cervical lymph nodes
+absent eccrine glands
+absent endometrial glands
+absent exorbital lacrimal gland
+absent female preputial gland
+absent gallbladder
+absent inguinal lymph nodes
+absent intraorbital lacrimal gland
+absent lacrimal gland bud
+absent lacrimal glands
+absent lactotrophs
+absent lobe of thyroid gland
+absent lung saccules
+absent lymph nodes
+absent male preputial gland
+absent mammary gland
+absent mesenteric lymph nodes
+absent pancreas
+absent pancreatic acinar cell zymogen granule
+absent pancreatic acinar cells
+absent pancreatic acini
+absent pancreatic duct
+absent pancreatic islets
+absent parathyroid glands
+absent parotid gland
+absent peripheral lymph nodes
+absent pineal gland
+absent pituitary gland
+absent pituitary infundibular stalk
+absent pituitary intermediate lobe
+absent popliteal lymph nodes
+absent prostate gland
+absent prostate gland anterior lobe
+absent pulmonary neuroendocrine bodies
+absent right lung accessory lobe
+absent salivary gland
+absent sebaceous gland
+absent solitary pulmonary neuroendocrine cells
+absent somatotroph secretory granules
+absent somatotrophs
+absent spleen
+absent sublingual duct
+absent sublingual gland
+absent submandibular gland
+absent sweat gland
+absent thymus cortex
+absent thymus corticomedullary boundary
+absent thymus medulla
+absent thyroid follicular cells
+absent thyroid gland
+absent thyroid gland isthmus
+absent thyrotrophs
+accessory spleen
+adenohypophysis hyperplasia
+adenohypophysis hypertrophy
+adenohypophysis hypoplasia
+adrenal cortical hyperplasia
+adrenal gland atrophy
+adrenal gland cyst
+adrenal gland disease
+adrenal gland hyperplasia
+adrenal gland hypoplasia
+adrenal medulla hyperplasia
+adrenergic chromaffin cell hyperplasia
+airway basal cell hyperplasia
+annular pancreas
+bile duct epithelium hyperplasia
+bile duct hyperplasia
+bile duct proliferation
+bronchial epithelial hyperplasia
+bronchiolar epithelial hyperplasia
+bulbourethral gland cyst
+bulbourethral gland hyperplasia
+bulbourethral gland hypoplasia
+calcified pancreas
+congenital adrenal hyperplasia
+decreased activity of thyroid gland
+decreased adrenal gland zona fasciculata size
+decreased ductal branching in the coagulating gland
+decreased ductal branching in the palatine gland
+decreased eccrine gland number
+decreased endometrial gland number
+decreased mammary duct terminal end bud number
+decreased parotid gland size
+decreased prostate gland anterior lobe weight
+decreased prostate gland dorsolateral lobe weight
+decreased prostate gland duct number
+decreased prostate gland ventral lobe weight
+decreased sebaceous gland number
+decreased stria medullaris size
+decreased submandibular gland size
+decreased trachea gland number
+dilated Brunner s gland
+dilated bile duct
+dilated gallbladder
+dilated gastric gland
+dilated lymph node medullary sinus
+dilated pancreatic acinus
+dilated pancreatic duct
+dilated piliary canal
+disorganized adrenal gland zona fasciculata
+dorsal root ganglion hyperplasia
+ectopic adenohypophysis
+ectopic adrenal gland
+ectopic mammary gland
+ectopic nipples
+ectopic pancreas
+ectopic pancreatic acinar cells
+ectopic parathyroid gland
+ectopic pituitary gland
+ectopic thymus
+ectopic thyroid gland
+endocrine exocrine gland phenotype
+endocrine system disease
+endometrium hyperplasia
+enlarged Harderian gland
+enlarged Meibomian gland
+enlarged adenohypophysis
+enlarged adrenal glands
+enlarged adrenal medulla
+enlarged adrenocortical cell nuclei
+enlarged adrenocortical cells
+enlarged alveolar lamellar bodies
+enlarged axillary lymph nodes
+enlarged cervical lymph nodes
+enlarged duodenum
+enlarged endometrial glands
+enlarged fourth ventricle
+enlarged gallbladder
+enlarged inguinal lymph nodes
+enlarged lacrimal gland
+enlarged liver
+enlarged lung
+enlarged lymph nodes
+enlarged mesenteric lymph nodes
+enlarged pancreas
+enlarged pancreatic islets
+enlarged parathyroid gland
+enlarged pituitary gland
+enlarged pituitary intermediate lobe
+enlarged popliteal lymph nodes
+enlarged salivary gland
+enlarged sebaceous gland
+enlarged spleen
+enlarged stomach
+enlarged submandibular lymph nodes
+enlarged superior cervical ganglion
+enlarged tail bud
+enlarged thymus
+enlarged thymus cortex
+enlarged thymus medulla
+enlarged thyroid gland
+esophagus hyperplasia
+exocrine pancreas atrophy
+exocrine pancreas hyperplasia
+exocrine pancreas hypoplasia
+exocrine pancreatic insufficiency
+eyelid hyperplasia
+failure of adrenal epinephrine secretion
+female preputial gland hypoplasia
+gastric gland atrophy
+gastric gland degeneration
+gastric gland hyperplasia
+growth hormone secreting pituitary adenoma
+hypothalamus hyperplasia
+impaired mammary gland growth during pregnancy
+increased activity of thyroid gland
+increased adrenal gland apoptosis
+increased adrenal gland weight
+increased adrenal gland zona fasciculata size
+increased eccrine gland number
+increased endometrial gland number
+increased lacrimal gland apoptosis
+increased mammary gland apoptosis
+increased parotid gland size
+increased pituitary gland apoptosis
+increased prostate gland anterior lobe weight
+increased prostate gland dorsolateral lobe weight
+increased prostate gland ventral lobe weight
+increased sebaceous gland number
+increased submandibular gland apoptosis
+increased submandibular gland size
+increased thyroid gland weight
+interstitial cells of Cajal hyperplasia
+isolated anhidrosis with normal sweat glands
+lacrimal gland atrophy
+lacrimal gland degeneration
+lacrimal gland hypertrophy
+lacrimal gland inflammation
+lacrimal gland necrosis
+large lymphoid organs
+liver hyperplasia
+lung epithelium hyperplasia
+lymph node atrophy
+lymph node hemorrhage
+lymph node hyperplasia
+lymph node hypoplasia
+lymph node inflammation
+lymph node medullary cord hyperplasia
+lymph node necrosis
+lymphoid hyperplasia
+mammary gland hypoplasia
+midbrain hyperplasia
+narrow salivary ducts
+nasal gland degeneration
+ovary hyperplasia
+pale mammary gland
+pancreas atrophy
+pancreas cyst
+pancreas hyperplasia
+pancreatic acinar cell atrophy
+pancreatic acinar cell zymogen granule accumulation
+pancreatic acinar hyperplasia
+pancreatic acinar hypoplasia
+pancreatic acinar-to-ductal metaplasia
+pancreatic islet hyperplasia
+parathyroid gland hyperplasia
+parathyroid hypoplasia
+paravertebral ganglia hyperplasia
+parotid gland inflammation
+persistent cervical thymus
+pigmented parathyroid gland
+pituitary gland hyperplasia
+pituitary gland hypertrophy
+pituitary gland hypoplasia
+pituitary intermediate lobe hyperplasia
+pituitary intermediate lobe hypoplasia
+pituitary-dependent Cushing s disease
+preputial gland inflammation
+prevertebral ganglia hyperplasia
+primary pigmented nodular adrenocortical disease
+prolactinoma
+prostate gland hypoplasia
+prostate gland lateral lobe hypoplasia
+pulmonary hyperplasia
+reactive type II pneumocyte hyperplasia
+retention of the adrenal gland x-zone
+salivary gland degeneration
+salivary gland epithelial hyperplasia
+salivary gland inflammation
+sebaceous gland atrophy
+sebaceous gland hyperplasia
+sebaceous gland hypertrophy
+sebaceous gland hypoplasia
+short sublingual duct
+small Meibomian gland
+small adenohypophysis
+small adrenal glands
+small alveolar lamellar bodies
+small axillary lymph nodes
+small brachial lymph nodes
+small bulbourethral gland
+small cervical lymph nodes
+small dorsal pancreas
+small endometrial glands
+small gallbladder
+small inguinal lymph nodes
+small lung lobe
+small lung saccule
+small lymph nodes
+small male preputial gland
+small nodose ganglion
+small pancreas
+small perianal sebaceous gland
+small pituitary gland
+small pituitary intermediate lobe
+small popliteal lymph nodes
+small prevertebral sympathetic ganglia
+small prostate gland
+small prostate gland anterior lobe
+small prostate gland dorsolateral lobe
+small prostate gland ventral lobe
+small salivary gland
+small sebaceous gland
+small spleen
+small submandibular ganglion
+small superior cervical ganglion
+small superior vagus ganglion
+small thymus cortex
+small thymus medulla
+small thyroid cartilage
+small thyroid gland
+small ventral pancreas
+spleen atrophy
+spleen hyperplasia
+squamous metaplasia of bulbourethral gland
+squamous metaplasia of seminal vesicles
+squamous metaplasia of urethral gland
+stomach epithelial hyperplasia
+stomach mucosa hyperplasia
+sublingual gland inflammation
+submandibular gland hyperplasia
+submandibular gland hypoplasia
+submandibular gland inflammation
+superior cervical ganglion degeneration
+thalamus hyperplasia
+thin adrenal cortex
+thymus atrophy
+thymus cortex atrophy
+thymus cortex hyperplasia
+thymus cyst
+thymus hyperplasia
+thymus medulla atrophy
+thymus medulla hyperplasia
+thymus medulla hypoplasia
+thyroid gland hyperplasia
+thyroid gland hypoplasia
+thyroid gland inflammation
+uterus hyperplasia
