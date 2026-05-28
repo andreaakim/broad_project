@@ -1,0 +1,54 @@
+name: mouse-ontology-env
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+
+dependencies:
+  # Core Python
+  - python=3.11
+  - pip
+
+  # Jupyter notebooks
+  - jupyterlab
+  - notebook
+  - ipykernel
+
+  # Scientific Python
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+
+  # Graph / ontology analysis
+  - networkx
+  - lxml
+  - beautifulsoup4
+
+  # Dimensionality reduction and clustering
+  - umap-learn
+  - hdbscan
+  - python-igraph
+  - leidenalg
+
+  # Statistics
+  - scikit-bio
+  - statsmodels
+
+  # PyTorch / embeddings
+  - pytorch
+  - torchvision
+  - torchaudio
+  - sentence-transformers
+  - transformers
+
+  # Tree comparison / utilities installed through pip
+  - pip:
+      - zss
+      - ete3
+      - tqdm
+      - adjustText
+      - plotly
+      - nbformat

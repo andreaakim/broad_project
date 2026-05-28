@@ -1,0 +1,42 @@
+# Core notebook environment
+jupyterlab
+notebook
+ipykernel
+
+# Scientific Python
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+
+# Ontology / graph tools
+networkx
+lxml
+beautifulsoup4
+
+# Clustering and dimensionality reduction
+umap-learn
+hdbscan
+python-igraph
+leidenalg
+
+# Statistics
+scikit-bio
+statsmodels
+
+# Embeddings / NLP
+torch
+torchvision
+torchaudio
+sentence-transformers
+transformers
+
+# Tree comparison and utilities
+zss
+ete3
+tqdm
+adjustText
+plotly
+nbformat
